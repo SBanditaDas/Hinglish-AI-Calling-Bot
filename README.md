@@ -23,6 +23,16 @@ _An open-source outbound calling system using Python, Twilio, and Flask to autom
 
 This project is an automated telephony solution designed to handle outbound lead qualification. Built with Python and integrated with the Twilio API, the bot retrieves mobile numbers from a Google Sheet, initiates a voice call with a natural Hindi AI voice, processes user speech intent (Yes/No), and updates a secondary "Interested" sheet based on the conversation outcome.
 
+### 1. Video Demo
+Below is a screen recording of the bot in action, featuring the Hindi AI voice interaction and real-time logic processing.
+
+https://github.com/SBanditaDas/Hinglish-AI-Calling-Bot/blob/main/demo.mp4?raw=true
+
+### 2. Real-Time Result (Google Sheets Sync)
+This image confirms that the bot successfully recognized the "Haan" (Yes) intent and updated the **Interested** worksheet automatically.
+
+![Google Sheets Result](./result_img.png)
+
 ---
 <h2><a class="anchor" id="project-problem"></a>Project Problem</h2>
 
