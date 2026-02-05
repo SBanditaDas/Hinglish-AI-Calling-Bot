@@ -31,7 +31,8 @@ https://github.com/SBanditaDas/Hinglish-AI-Calling-Bot/blob/main/demo.mp4?raw=tr
 ### 2. Real-Time Result (Google Sheets Sync)
 This image confirms that the bot successfully recognized the "Haan" (Yes) intent and updated the **Interested** worksheet automatically.
 
-![Google Sheets Result](./result_img.png)
+![Calling Automation Result](./result_img.png)
+![Google Sheets Result](./Gsheet.png)
 
 ---
 <h2><a class="anchor" id="project-problem"></a>Project Problem</h2>
