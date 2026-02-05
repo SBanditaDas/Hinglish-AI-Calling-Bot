@@ -35,6 +35,13 @@ This image confirms that the bot successfully recognized the "Haan" (Yes) intent
 ![Google Sheets Result](./Gsheet.png)
 
 ---
+
+## 🛠️ Cost Optimization Research
+To ensure this project is scalable for high-volume business use, I conducted an industry-level cost-benefit analysis. By transitioning from a standard Cloud API to wholesale SIP providers, the operational cost can be reduced by **over 70%**.
+
+📂 **Explore the full research here:** [Telephony Market Research & Cost Analysis](https://github.com/SBanditaDas/Telephony-Market-Research-Cost-Analysis)
+
+---
 <h2><a class="anchor" id="project-problem"></a>Project Problem</h2>
 
 Manual calling for lead qualification is time-consuming and expensive. This project solves this by:
